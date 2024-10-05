@@ -4,7 +4,7 @@ TIA Portal Version: v16
 </br>
 <h3>Task definition (auf Deutsch)</h3>
 
-<b>Grundlegende Aufgabenstellung:</b>
+<b>Grundlegende Aufgabenstellung:</b></br>
 Mit dem Hauptschalter S6 wird die Steuerspannung eingeschaltet. Der Hydraulikdruckwächter
 S7 und der Not-Aus-Taster S8(Öffner) müssen geschlossen sein.
 Mit den Tastschaltern S0, S1 und S2 kann eine Programmauswahl vorgenommen werden.
@@ -15,8 +15,8 @@ verschiedene Meldeeinrichtungen angezeigt.
 Die Anlage wird in allen Programmen bei Betätigung des Not-Aus-Tasters bzw. bei Ausfall der
 Steuerspannung oder des Hydraulikdruckwächters abgeschaltet.
 
-<b>Funktionsbeschreibung 1:</b>
-Programmvorwahl: TÜR AUF
+<b>Funktionsbeschreibung 1:</b></br>
+Programmvorwahl: TÜR AUF</br>
 Bei der Inbetriebnahme der Anlage ist die Tür normalerweise geschlossen.
 Die Anlage kann in diesem Fall nur mit dem Programm Tür Auf gestartet werden.
 Ist die Tür geschlossen, kann mit dem Tastschalter S1 die Tür manuell im Tippbetrieb geöffnet
@@ -32,8 +32,8 @@ Wird die Anlage über Not-Aus/Abfall der Steuerspannung/Hydraulikdruckwächters 
 müssen alle Programme in Grundstellung starten/Tür darf nur nach kompletter Öffnung wieder
 geschlossen werden.
 
-<b>Funktionsbeschreibung 2:</b>
-Programmvorwahl: Grundposition und Tür Zu
+<b>Funktionsbeschreibung 2:</b></br>
+Programmvorwahl: Grundposition und Tür Zu</br>
 Um das Programm “Tür Zu'' zu starten, muss der Beschicker in der Grundposition stehen.
 Hierzu sind die folgenden Funktionen zu erfüllen:
 Hauptschalter Steuerspannung (I0.6) ist geschlossen
@@ -50,8 +50,8 @@ schaltet den Türantrieb ab.
 Wird beim Zufahren der Tür die Anlage abgeschaltet, muss bei erneuter Inbetriebnahme
 zunächst die Tür vollständig geöffnet werden, um die Grundposition zu erreichen.
 
-<b>Funktionsbeschreibung 3:</b>
-Programmvorwahl: AUTO-START/Schleuderrad
+<b>Funktionsbeschreibung 3:</b></br>
+Programmvorwahl: AUTO-START/Schleuderrad</br>
 Um den Automatikbetrieb zu starten, muss der Beschicker in der Grundposition stehen.
 Nachdem der Beschicker in der Grundposition steht, kann mit S2 der Automatikbetrieb gestartet
 werden.
@@ -71,8 +71,8 @@ Die Anlage wird bei Betätigung des Not-Aus-Tasters bzw. bei Ausfall der Steuers
 des Hydraulikdruckwächters abgeschaltet.
 Bei erneuter Inbetriebnahme muß zunächst die Grundposition wieder erreicht werden.
 
-<b>Funktionsbeschreibung 4:</b>
-Programmvorwahl: Automatik - Raupenband Störung
+<b>Funktionsbeschreibung 4:</b></br>
+Programmvorwahl: Automatik - Raupenband Störung</br>
 Falls sich während des Strahlens das zu strahlende Gut im Raupenband verkeilt, kann der
 Bediener das Raupenband über S5 anhalten und mit S3 im Tippbetrieb rückwärts laufen lassen,
 bzw. mit S4 wieder einschalten. Diese Steuerung ist wiederholbar, bis die Strahlzeit abgelaufen
