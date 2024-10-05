@@ -1,7 +1,7 @@
 # sandblasting_machine_SIEMENS
 <h3>SPS project in Siemens TiaPortal</h3>
-TIA Portal Version: v16
-</br>
+TIA Portal Version: v16</br>
+Sprache: FUP</br>
 <h3>Task definition (auf Deutsch)</h3>
 
 <b>Grundlegende Aufgabenstellung:</b></br>
